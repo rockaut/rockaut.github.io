@@ -7,9 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>fischbacher.markus@gmail.com (Markus Fischbacher)</managingEditor>
     <webMaster>fischbacher.markus@gmail.com (Markus Fischbacher)</webMaster>
+    <lastBuildDate>Mon, 04 Feb 2019 14:48:40 +0100</lastBuildDate>
     
 	<atom:link href="https://fischbacher.rocks/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Github</title>
+      <link>https://fischbacher.rocks/tags/github/</link>
+      <pubDate>Mon, 04 Feb 2019 14:48:40 +0100</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Pages</title>
+      <link>https://fischbacher.rocks/tags/github-pages/</link>
+      <pubDate>Mon, 04 Feb 2019 14:48:40 +0100</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://fischbacher.rocks/tags/hugo/</link>
+      <pubDate>Mon, 04 Feb 2019 14:48:40 +0100</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

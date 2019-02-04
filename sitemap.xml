@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fischbacher.rocks/post/hello-again/</loc>
+    <lastmod>2019-02-04T14:48:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fischbacher.rocks/</loc>
+    <lastmod>2019-02-04T14:48:40+01:00</lastmod>
   </url>
   
   <url>
@@ -16,7 +22,31 @@
   </url>
   
   <url>
+    <loc>https://fischbacher.rocks/tags/github/</loc>
+    <lastmod>2019-02-04T14:48:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fischbacher.rocks/tags/github-pages/</loc>
+    <lastmod>2019-02-04T14:48:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fischbacher.rocks/tags/hugo/</loc>
+    <lastmod>2019-02-04T14:48:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fischbacher.rocks/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fischbacher.rocks/post/</loc>
+    <lastmod>2019-02-04T14:48:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +55,14 @@
   </url>
   
   <url>
+    <loc>https://fischbacher.rocks/categories/ramblings/</loc>
+    <lastmod>2019-02-04T14:48:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fischbacher.rocks/tags/</loc>
+    <lastmod>2019-02-04T14:48:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   

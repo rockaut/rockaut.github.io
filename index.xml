@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>fischbacher.markus@gmail.com (Markus Fischbacher)</managingEditor>
     <webMaster>fischbacher.markus@gmail.com (Markus Fischbacher)</webMaster>
+    <lastBuildDate>Mon, 04 Feb 2019 14:48:40 +0100</lastBuildDate>
     
 	<atom:link href="https://fischbacher.rocks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello Again</title>
+      <link>https://fischbacher.rocks/post/hello-again/</link>
+      <pubDate>Mon, 04 Feb 2019 14:48:40 +0100</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/post/hello-again/</guid>
+      <description>&lt;p&gt;As I&amp;rsquo;m in an active job shift again, I had to move my domain and blog. Luckily I haven&amp;rsquo;t had much &amp;hellip; or like any &amp;hellip; real content online so I decided to switch completely to &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>About me</title>
@@ -17,9 +27,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
       <guid>https://fischbacher.rocks/page/about/</guid>
-      <description>First things first my name is Markus Fischbacher and I am living near Salzburg, Austria.
-fischbacher.rocks is my personal blog with my personal view. Just mine, just that. It&amp;rsquo;s also kind of an personal reminder for things I care and things I don&amp;rsquo;t want to forget about. But mostly it will focus on technology &amp;hellip; and games :D
-Since my first contact with computers i was fascinated on programing. Early on it were only games that captured my attention but as i realized that austria isn&amp;rsquo;t a good market for that i shifted my focus on general computing.</description>
+      <description>First things first my name is Markus Fischbacher and I&amp;rsquo;m living near Salzburg, Austria.
+fischbacher.rocks is my personal blog with my personal view. Just mine, just that. It&amp;rsquo;s also kind of a personal reminder for things I care and things I don&amp;rsquo;t want to forget about. But mostly it will focus on technology, hardware and software &amp;hellip; and games of course :D
+Since my first contact with computers I was fascinated by programing.</description>
     </item>
     
     <item>
@@ -28,7 +38,7 @@ Since my first contact with computers i was fascinated on programing. Early on i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
       <guid>https://fischbacher.rocks/page/privacy/</guid>
-      <description>fischbacher.rocks is a privately owned and operated site run by Markus Fischbacher. It is hosted on Github and you can find their policy here https://github.com/site/privacy. Based on Hugo it uses static HTML files and nothing is stored on hosting side by me. All implemented services are tuned for GDPR as much as possible for me see Hugo and GDRP.
+      <description>fischbacher.rocks is a privately owned and operated site run by Markus Fischbacher. It is hosted on Github - you can find their policy here https://github.com/site/privacy. Based on Hugo it just uses static HTML files and nothing else server side. All implemented services are tuned for GDPR as much as possible from me see Hugo and GDRP.
 You may always browse the sourcecode directly and please feel free to report any issues.</description>
     </item>
     
