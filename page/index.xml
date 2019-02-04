@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on fischbacher.rocks</title>
+    <link>https://fischbacher.rocks/page/</link>
+    <description>Recent content in Pages on fischbacher.rocks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>fischbacher.markus@gmail.com (Markus Fischbacher)</managingEditor>
+    <webMaster>fischbacher.markus@gmail.com (Markus Fischbacher)</webMaster>
+    
+	<atom:link href="https://fischbacher.rocks/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://fischbacher.rocks/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/page/about/</guid>
+      <description>First things first my name is Markus Fischbacher and I am living near Salzburg, Austria.
+fischbacher.rocks is my personal blog with my personal view. Just mine, just that. It&amp;rsquo;s also kind of an personal reminder for things I care and things I don&amp;rsquo;t want to forget about. But mostly it will focus on technology &amp;hellip; and games :D
+Since my first contact with computers i was fascinated on programing. Early on it were only games that captured my attention but as i realized that austria isn&amp;rsquo;t a good market for that i shifted my focus on general computing.</description>
+    </item>
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://fischbacher.rocks/page/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/page/privacy/</guid>
+      <description>fischbacher.rocks is a privately owned and operated site run by Markus Fischbacher. It is hosted on Github and you can find their policy here https://github.com/site/privacy. Based on Hugo it uses static HTML files and nothing is stored on hosting side by me. All implemented services are tuned for GDPR as much as possible for me see Hugo and GDRP.
+You may always browse the sourcecode directly and please feel free to report any issues.</description>
+    </item>
+    
+  </channel>
+</rss>
