@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on fischbacher.rocks</title>
-    <link>https://fischbacher.rocks/post/</link>
-    <description>Recent content in Posts on fischbacher.rocks</description>
+    <title>Openfaas on fischbacher.rocks</title>
+    <link>https://fischbacher.rocks/tags/openfaas/</link>
+    <description>Recent content in Openfaas on fischbacher.rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>fischbacher.markus@gmail.com (Markus Fischbacher)</managingEditor>
     <webMaster>fischbacher.markus@gmail.com (Markus Fischbacher)</webMaster>
     <lastBuildDate>Tue, 05 Feb 2019 14:48:40 +0100</lastBuildDate>
     
-	<atom:link href="https://fischbacher.rocks/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fischbacher.rocks/tags/openfaas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,15 +21,6 @@
       <description>&lt;p&gt;&amp;ldquo;The mission of OpenFaaS ® is to Make Serverless Functions Simple. It can be run on any cloud through the use of portable Docker containers without the fear of getting locked-in or having to manage complex infrastructure.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;Bold statement but just so true. &lt;a href=&#34;https://www.openfaas.com/&#34;&gt;OpenFaaS&lt;/a&gt; is easily one of my favorite tools and Open-Source projects out there. There are so many things on the plus side for OpenFaaS.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello Again</title>
-      <link>https://fischbacher.rocks/post/hello-again/</link>
-      <pubDate>Mon, 04 Feb 2019 14:48:40 +0100</pubDate>
-      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
-      <guid>https://fischbacher.rocks/post/hello-again/</guid>
-      <description>&lt;p&gt;As I&amp;rsquo;m in an active job shift again, I had to move my domain and blog. Luckily I haven&amp;rsquo;t had much &amp;hellip; or like any &amp;hellip; real content online so I decided to switch completely to &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

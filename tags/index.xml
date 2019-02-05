@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>fischbacher.markus@gmail.com (Markus Fischbacher)</managingEditor>
     <webMaster>fischbacher.markus@gmail.com (Markus Fischbacher)</webMaster>
-    <lastBuildDate>Mon, 04 Feb 2019 14:48:40 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 14:48:40 +0100</lastBuildDate>
     
 	<atom:link href="https://fischbacher.rocks/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Faas</title>
+      <link>https://fischbacher.rocks/tags/faas/</link>
+      <pubDate>Tue, 05 Feb 2019 14:48:40 +0100</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/faas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Favorite Tools</title>
+      <link>https://fischbacher.rocks/tags/favorite-tools/</link>
+      <pubDate>Tue, 05 Feb 2019 14:48:40 +0100</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/favorite-tools/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Github</title>
@@ -36,6 +54,33 @@
       <pubDate>Mon, 04 Feb 2019 14:48:40 +0100</pubDate>
       <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
       <guid>https://fischbacher.rocks/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://fischbacher.rocks/tags/open-source/</link>
+      <pubDate>Tue, 05 Feb 2019 14:48:40 +0100</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openfaas</title>
+      <link>https://fischbacher.rocks/tags/openfaas/</link>
+      <pubDate>Tue, 05 Feb 2019 14:48:40 +0100</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/openfaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://fischbacher.rocks/tags/tools/</link>
+      <pubDate>Tue, 05 Feb 2019 14:48:40 +0100</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/tools/</guid>
       <description></description>
     </item>
     
