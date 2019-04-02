@@ -24,7 +24,7 @@
     <item>
       <title>Favorite Tools</title>
       <link>https://fischbacher.rocks/tags/favorite-tools/</link>
-      <pubDate>Tue, 05 Feb 2019 14:48:40 +0100</pubDate>
+      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
       <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
       <guid>https://fischbacher.rocks/tags/favorite-tools/</guid>
       <description></description>
@@ -58,9 +58,18 @@
     </item>
     
     <item>
+      <title>Monitoring</title>
+      <link>https://fischbacher.rocks/tags/monitoring/</link>
+      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Open Source</title>
       <link>https://fischbacher.rocks/tags/open-source/</link>
-      <pubDate>Tue, 05 Feb 2019 14:48:40 +0100</pubDate>
+      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
       <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
       <guid>https://fischbacher.rocks/tags/open-source/</guid>
       <description></description>
@@ -76,11 +85,38 @@
     </item>
     
     <item>
+      <title>Timescale</title>
+      <link>https://fischbacher.rocks/tags/timescale/</link>
+      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/timescale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timeseries</title>
+      <link>https://fischbacher.rocks/tags/timeseries/</link>
+      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/timeseries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tools</title>
       <link>https://fischbacher.rocks/tags/tools/</link>
-      <pubDate>Tue, 05 Feb 2019 14:48:40 +0100</pubDate>
+      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
       <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
       <guid>https://fischbacher.rocks/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zabbix</title>
+      <link>https://fischbacher.rocks/tags/zabbix/</link>
+      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/zabbix/</guid>
       <description></description>
     </item>
     
