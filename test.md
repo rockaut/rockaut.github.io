@@ -2,7 +2,7 @@
 layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
-gh-repo: rockaut/jekyll-test
+gh-repo: rockaut/rockaut.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true

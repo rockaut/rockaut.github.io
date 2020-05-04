@@ -6,7 +6,7 @@ author: Markus Fischbacher
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Root: "https://fischbacher.rocks/jekyll-test/"
+  Root: "https://fischbacher.rocks/"
   Tags: "/tags"
   About me: "/aboutme"
   Privacy: "/privacy"
