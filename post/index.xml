@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>fischbacher.markus@gmail.com (Markus Fischbacher)</managingEditor>
     <webMaster>fischbacher.markus@gmail.com (Markus Fischbacher)</webMaster>
-    <lastBuildDate>Tue, 02 Apr 2019 16:12:44 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 17:10:44 +0200</lastBuildDate>
     
 	<atom:link href="https://fischbacher.rocks/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Issue with Collections/Roles and Ansible 2.9</title>
+      <link>https://fischbacher.rocks/post/ansible-role-issue/</link>
+      <pubDate>Mon, 04 May 2020 17:10:44 +0200</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/post/ansible-role-issue/</guid>
+      <description>&lt;p&gt;Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections.
+I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he opened an Issue for it &lt;a href=&#34;https://github.com/ansible/ansible/issues/69307&#34;&gt;Github Issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So whats going on in short &amp;hellip;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Zabbix 4.2 and Timescaledb</title>
