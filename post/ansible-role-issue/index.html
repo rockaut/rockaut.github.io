@@ -11,15 +11,19 @@
   <meta property="og:title" content="Issue with Collections/Roles and Ansible 2.9" />
   <meta name="twitter:title" content="Issue with Collections/Roles and Ansible 2.9" />
   <meta name="description" content="Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections.
-I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he opened an Issue for it Github Issue.
+I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he today opened an Issue for it: see Github Issue.
+
+Basically with Ansible 2.9 if you have collections with same named roles (for example &lsquo;install&rsquo;) which you include you have to work around the issue or Ansible fails in different ways.
 
 So whats going on in short &hellip;">
   <meta property="og:description" content="Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections.
-I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he opened an Issue for it Github Issue.
+I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he today opened an Issue for it: see Github Issue.
+
+Basically with Ansible 2.9 if you have collections with same named roles (for example &lsquo;install&rsquo;) which you include you have to work around the issue or Ansible fails in different ways.
 
 So whats going on in short &hellip;">
   <meta name="twitter:description" content="Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections.
-I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he opened an …">
+I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he today opened …">
   <meta name="author" content="Markus Fischbacher"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -68,11 +72,12 @@ I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot
     "name" : "Markus Fischbacher"
   },
   "headline": "Issue with Collections/Roles and Ansible 2.9",
-  "description" : "Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections. I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he opened an Issue for it Github Issue.
+  "description" : "Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections. I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he today opened an Issue for it: see Github Issue.
+Basically with Ansible 2.9 if you have collections with same named roles (for example &amp;lsquo;install&amp;rsquo;) which you include you have to work around the issue or Ansible fails in different ways.
 So whats going on in short &amp;hellip;
 ",
   "inLanguage" : "en",
-  "wordCount": 340,
+  "wordCount": 347,
   "datePublished" : "2020-05-04T18:10:44",
   "dateModified" : "2020-05-04T18:10:44",
   "image" : "https://avatars1.githubusercontent.com/u/453368?s=460&v=4",
@@ -93,7 +98,9 @@ So whats going on in short &amp;hellip;
 
 <meta property="og:title" content="Issue with Collections/Roles and Ansible 2.9" />
 <meta property="og:description" content="Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections.
-I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he opened an Issue for it Github Issue.
+I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he today opened an Issue for it: see Github Issue.
+
+Basically with Ansible 2.9 if you have collections with same named roles (for example &lsquo;install&rsquo;) which you include you have to work around the issue or Ansible fails in different ways.
 
 So whats going on in short &hellip;">
 <meta property="og:image" content="https://avatars1.githubusercontent.com/u/453368?s=460&v=4" />
@@ -102,7 +109,7 @@ So whats going on in short &hellip;">
 <meta property="og:site_name" content="fischbacher.rocks" />
   <meta name="twitter:title" content="Issue with Collections/Roles and Ansible 2.9" />
   <meta name="twitter:description" content="Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections.
-I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he opened an …">
+I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he today opened …">
   <meta name="twitter:image" content="https://avatars1.githubusercontent.com/u/453368?s=460&v=4" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@RealRockaut" />
@@ -303,13 +310,13 @@ I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
         <p>Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections.
-I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he opened an Issue for it <a href="https://github.com/ansible/ansible/issues/69307">Github Issue</a>.</p>
+I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he today opened an Issue for it: <strong><a href="https://github.com/ansible/ansible/issues/69307">see Github Issue</a></strong>.</p>
+
+<p>Basically with Ansible 2.9 if you have collections with same named roles (for example &lsquo;install&rsquo;) which you include you have to work around the issue or Ansible fails in different ways.</p>
 
 <p>So whats going on in short &hellip;</p>
 
 <hr />
-
-<p>Basically with Ansible 2.9 if you have collections with same named roles (for example &lsquo;install&rsquo;) you have to do something or Ansible fails in different ways.</p>
 
 <p>If you include your roles directly in the play definition, only one of the roles will be run. Even if you use FQCN!
 For example:</p>
