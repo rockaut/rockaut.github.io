@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>fischbacher.markus@gmail.com (Markus Fischbacher)</managingEditor>
     <webMaster>fischbacher.markus@gmail.com (Markus Fischbacher)</webMaster>
-    <lastBuildDate>Tue, 05 Feb 2019 14:48:40 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 18:10:44 +0200</lastBuildDate>
     
 	<atom:link href="https://fischbacher.rocks/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ansible</title>
+      <link>https://fischbacher.rocks/tags/ansible/</link>
+      <pubDate>Mon, 04 May 2020 18:10:44 +0200</pubDate>
+      <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
+      <guid>https://fischbacher.rocks/tags/ansible/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Faas</title>
@@ -24,7 +33,7 @@
     <item>
       <title>Favorite Tools</title>
       <link>https://fischbacher.rocks/tags/favorite-tools/</link>
-      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
+      <pubDate>Mon, 04 May 2020 18:10:44 +0200</pubDate>
       <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
       <guid>https://fischbacher.rocks/tags/favorite-tools/</guid>
       <description></description>
@@ -69,7 +78,7 @@
     <item>
       <title>Open Source</title>
       <link>https://fischbacher.rocks/tags/open-source/</link>
-      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
+      <pubDate>Mon, 04 May 2020 18:10:44 +0200</pubDate>
       <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
       <guid>https://fischbacher.rocks/tags/open-source/</guid>
       <description></description>
@@ -105,7 +114,7 @@
     <item>
       <title>Tools</title>
       <link>https://fischbacher.rocks/tags/tools/</link>
-      <pubDate>Tue, 02 Apr 2019 16:12:44 +0200</pubDate>
+      <pubDate>Mon, 04 May 2020 18:10:44 +0200</pubDate>
       <author>fischbacher.markus@gmail.com (Markus Fischbacher)</author>
       <guid>https://fischbacher.rocks/tags/tools/</guid>
       <description></description>
