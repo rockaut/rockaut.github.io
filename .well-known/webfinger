@@ -1,0 +1,23 @@
+{
+  "subject": "acct:RealRockaut@mastodon.social",
+  "aliases": [
+    "https://mastodon.social/@RealRockaut",
+    "https://mastodon.social/users/RealRockaut"
+  ],
+  "links": [
+     {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://mastodon.social/@RealRockaut"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://mastodon.social/users/RealRockaut"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://mastodon.social/authorize_interaction?uri={uri}"
+    }
+  ]
+}
